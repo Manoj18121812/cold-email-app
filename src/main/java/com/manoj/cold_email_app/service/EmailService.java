@@ -37,20 +37,25 @@ Dear Hiring Manager,
 
 I hope this email finds you well. I am writing to express my interest in any open DevOps Engineer or DevOps Intern position at your organization.
 
-I recently completed my DevOps Engineer Internship at iSoftNix Private Limited, 
-where I worked on deploying containerized applications on AWS EC2 using Docker and Kubernetes across multiple environments, maintaining 99% uptime. 
-I also built Jenkins CI/CD pipelines that cut deployment time from 45 to 18 minutes, and set up Prometheus/Grafana monitoring that helped resolve
- critical performance issues before they impacted production.
+I am currently working as a DevOps Intern at Davine Technologies, where I am gaining hands-on experience with Linux administration, networking, SSH, Git/GitHub, Bash scripting, Nginx/Apache, Jenkins CI/CD, Terraform, and Ansible.
+
+Previously, I completed my DevOps Engineer Internship at iSoftNix Private Limited, where I worked on deploying containerized applications on AWS EC2 using Docker and Kubernetes across multiple environments, maintaining 99% uptime.
+I also optimized Jenkins CI/CD pipelines, reducing deployment time from 45 to 18 minutes, and implemented Prometheus/Grafana monitoring for proactive application monitoring and performance analysis.
 
 Some highlights of my technical background:
 
 • Cloud & Infrastructure: AWS (EC2, S3, IAM, RDS, VPC, Route 53, EKS), Terraform, Ansible
-• Containers & Orchestration: Docker, Kubernetes
-• CI/CD: Jenkins, Maven, Git/GitHub, Pipeline-as-Code
-• DevSecOps: SonarQube, OWASP Dependency-Check, Trivy
-• Monitoring: Prometheus, Grafana, Alertmanager
+• Containers & Orchestration: Docker, Kubernetes, Amazon EKS
+• CI/CD: Jenkins, Maven, Git/GitHub, Webhooks, Pipeline-as-Code
+• DevSecOps: SonarQube, OWASP Dependency-Check, Trivy, Quality Gates
+• Monitoring & Observability: Prometheus, Grafana, Alertmanager
+• Networking & Linux: Linux, Bash/Shell Scripting, Nginx, DNS, TCP/IP, HTTP/HTTPS, SSL/TLS
 
-I have also built end-to-end projects covering a two-tier application deployment on Amazon EKS with full CI/CD and monitoring, and a complete DevSecOps pipeline integrating security scanning at every stage of the build process.
+I have also built end-to-end projects covering a two-tier Spring Boot application deployment on Amazon EKS with Kubernetes auto-scaling, rolling updates, Jenkins CI/CD, and Prometheus/Grafana monitoring.
+
+Additionally, I developed a complete DevSecOps pipeline integrating Jenkins, SonarQube, OWASP Dependency-Check, and Trivy to automate SAST, SCA, and container vulnerability scanning, enforcing security and quality gates before deployment.
+
+I have also worked on AWS infrastructure automation using Terraform and Ansible, including VPC, subnets, security groups, EC2 provisioning, server configuration, and automated installation of DevOps tools.
 
 Portfolio: https://www.manojkgavhane.co.in
 
@@ -67,6 +72,8 @@ https://www.manojkgavhane.co.in
 https://www.linkedin.com/in/manoj-gavhane-855b4b224
 https://github.com/Manoj18121812
 """;
+
+
 
             } else {
 
